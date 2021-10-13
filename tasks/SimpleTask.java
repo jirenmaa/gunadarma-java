@@ -1,4 +1,4 @@
-package assignments;
+package tasks;
 
 public class SimpleTask {
   public static void main(String[] args) {
