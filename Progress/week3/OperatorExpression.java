@@ -1,4 +1,4 @@
-package week3;
+package Progress.week3;
 
 public class OperatorExpression {
   public static void main(String[] args) {

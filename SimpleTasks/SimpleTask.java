@@ -1,4 +1,4 @@
-package tasks;
+package SimpleTasks;
 
 public class SimpleTask {
   public static void main(String[] args) {

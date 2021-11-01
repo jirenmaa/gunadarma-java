@@ -1,4 +1,4 @@
-package tasks;
+package SimpleTasks;
 
 public class BranchingStatement {
   public static void main(String[] args) {
