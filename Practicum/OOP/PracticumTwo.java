@@ -1,4 +1,4 @@
-package Practicum;
+package Practicum.OOP;
 
 public class PracticumTwo {
   public static void main(String[] args) {

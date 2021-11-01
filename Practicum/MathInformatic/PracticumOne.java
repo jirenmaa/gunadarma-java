@@ -83,20 +83,22 @@ public class PracticumOne {
     boolean isInOtherHimpunan = false;
     for (int i = 1; i <= setB_length; i++) {
       isInOtherHimpunan = false;
-      int same = 0;
 
       // check if 'A' is in 'B'
       for (int j = 1; j <= setA_length; j++) {
         if (setB[i] == setA[j]) {
           isInOtherHimpunan = true;
-          same = setA[j];
           break;
         }
       }
 
       // print 'A' if is in 'B'
       if (isInOtherHimpunan) {
-        irisan[i] = same;
+        if (setA_length > setB_length) {
+          irisan[irisan_length + 1] = setA[i];
+        } else {
+          irisan[irisan_length + 1] = setB[i];
+        }
         irisan_length++;
       }
     }

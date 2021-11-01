@@ -1,7 +1,7 @@
 /**
  * Expected file for practicum submission
  */
-package Practicum.MathInformatic;
+package Practicum.MathInformatic.Assignments;
 
 import java.util.Scanner;
 

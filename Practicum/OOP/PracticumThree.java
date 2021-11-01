@@ -1,4 +1,4 @@
-package Practicum;
+package Practicum.OOP;
 
 import java.util.Scanner;
 
