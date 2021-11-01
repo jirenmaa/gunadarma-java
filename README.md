@@ -1,8 +1,8 @@
 # About this repository
 
-I simply want to keep track of my progress and continue to study. That way, others in my major or who know more about java may correct what I did wrong in my code and help me write more efficient code.
+I simply want to keep track of my progress and continue to study. That way, others in same major as me or who know more about java may correct what I did wrong in my code and help me write more efficient code.
 
-# Proggress
+# Progress
 
 * Week 1
     * What is java
