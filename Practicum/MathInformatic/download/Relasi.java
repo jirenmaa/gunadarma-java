@@ -1,4 +1,4 @@
-package Practicum.MathInformatic.imported;
+package Practicum.MathInformatic.download;
 
 // Mengimpor Scanner ke program
 import java.io.*;
