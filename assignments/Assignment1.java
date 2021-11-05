@@ -1,12 +1,12 @@
-package Assignments;
+package assignments;
 
 import java.util.Scanner;
-// for catching erorr when user input is not a number
+// for catching exceptions when input is not an integer
 import java.util.InputMismatchException;
 
-public class Ahmadalwi {
+public class Assignment1 {
   public static void main(String[] args) {
-    // getting input from console
+    // getting input from user
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter number: ");
 

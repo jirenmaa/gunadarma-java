@@ -1,26 +1,22 @@
 # About this repository
 
-I simply want to keep track of my progress and continue to study. That way, others in same major as me or who know more about java may correct what I did wrong in my code and help me write more efficient code.
+I simply just want to keep track of my learning process from my collage. In this way i can keep track my progress of learning JAVA.
 
-# Progress
+If you want to help me to learn java you can see the CONTRIBUTE thank you.
 
-* Week 1
-    * What is java
-    * Java Syntax
-    * Installing IDE & Java
-    * Setup IDE
-* Week 2
-    * Create `Hello World` in java
-    * Learning `Data Types`
-    * Create Simple Program
-* Week 3
-    * Operator & Expression
-    * Type conversion
-    * Input & Output
-    * Try-Catch
-    * Import library
-    * Assignment
+# Structure
+* ### 📁assignments
+    collections of my collage assignment
+
+* ### 📁exercise
+    collections of code that i do when there was an empty class
+
+* ### 📁practicums
+    collections of my collage practicum
+
+* ### 📁school_progress
+    yes
 
 # Contributing
 
-To study Java, I'm using `Visual Studio Code` as my IDE. If you want to contribute but not using `Visual Studio Code`, Then you can `fork` and `pr` to this repository and I'll create a separate branch for that `pr`.
+Just push your code with `usefull` commit. thank you.
