@@ -46,7 +46,7 @@ public class Practicum3 {
     System.out.println();
     System.out.print(
       (doesMapAsFunctionOnto
-        ? "==Set is a onto function==" : "==Set is not a onto function==")
+        ? "==Set is an onto function==" : "==Set is not an onto function==")
     );
 
     System.out.println("\n");
